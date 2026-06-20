@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/TechMoveGLMS-main/TechMoveGLMS-main/TechMoveGLMS"
+		},
+		{
+			"path": "../../../Downloads/TechMoveGLMS-main/TechMoveGLMS-main/TechMoveGLMS.Tests"
+		},
+		{
+			"path": "../../../Downloads/TechMoveGLMS-main/TechMoveGLMS-main/TechMoveGLMS.API"
+		}
+	],
+	"settings": {}
+}
